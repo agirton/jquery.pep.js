@@ -1,0 +1,9 @@
+{
+    "name": "jquery-pep",
+    "description": "jQuery Pep package for Meteor",
+    "homepage": "https://github.com/agirton/jquery-pep",
+    "author": "agirton",
+    "version": "0.0.1",
+    "git": "https://github.com/agirton/jquery-pep.git",
+    "packages": {}
+}
